@@ -1,0 +1,8 @@
+
+RewriteEngine On
+
+# new SEO friendly names
+RewriteRule ^$ index.php?lang=en
+RewriteRule ^decoder$ decoder.php
+RewriteRule ^keyboard$ keyboard.php
+RewriteRule ^translit$ translit.php
